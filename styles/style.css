@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.school-logo{
+    width: 150px;
+}
+
+
+/* A4 page size in inch 8.3(width) x 11.7(height) */
+
+.certificate{
+    height:11.7in;
+    width: 8.3in;
+    border: 1px solid black;
+    /* background-image: url("../images/logo.png");
+    background-repeat: no-repeat;
+    background-position: center; */
+}
