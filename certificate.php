@@ -32,9 +32,7 @@ if($admissionNum){
 
     $data = mysqli_fetch_assoc($query);
 
-    $certificate .="
-       
-    
+    $certificate .="       
     <div class='row mt-5'>
         <div class='col-sm-6 col-md-4 col-lg-1'>
             <span class='text-capitalize'>S.No.</span>
